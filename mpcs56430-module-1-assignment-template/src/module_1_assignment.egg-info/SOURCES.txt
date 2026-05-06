@@ -1,0 +1,15 @@
+README.md
+pyproject.toml
+src/module_1_assignment/__init__.py
+src/module_1_assignment/base_distribution.py
+src/module_1_assignment/central_dogma.py
+src/module_1_assignment/codon_sensitivity.py
+src/module_1_assignment/fasta.py
+src/module_1_assignment/physics.py
+src/module_1_assignment.egg-info/PKG-INFO
+src/module_1_assignment.egg-info/SOURCES.txt
+src/module_1_assignment.egg-info/dependency_links.txt
+src/module_1_assignment.egg-info/requires.txt
+src/module_1_assignment.egg-info/top_level.txt
+tests/test_fasta.py
+tests/test_physics.py
